@@ -1,0 +1,3 @@
+# 100 Days of Code Journal
+
+- Day 1: 01/31/22 - Started a little of the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.  I will setup repl.it and the code rooms for testing at a later time.  I did the final task which is script day01a.py.  It gets the job done.  Nothing fancy, but that is okay.  I created day01.py by coming up with some random tasks, and then created a if, elif, else check.  I think that turned out pretty decent.  I need to add some features later, but I think this was a good start for today, and for this 100 days of coding.
