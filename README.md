@@ -9,22 +9,45 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 
 
 
-- VSCode Themes / Plugins to Review
-synthwave 84 theme
+### VSCode Themes / Plugins to Review
 
-vscode faker
-quokka.js
-placeholder images
-live server
-bracket colorizer
-calculate
-code spell checker
-vscodevim
+- synthwave 84 theme
+- vscode faker
+- quokka.js
+- placeholder images
+- live server
+- bracket colorizer
+- calculate
+- code spell checker
+- vscodevim
+
+### Useful Coding Links
+
+- https://freecodecamp.org
+- https://theodinproject.com
+- https://exercism.org/
+- https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
 
 
-freecodecamp.org
-theodinproject.com
-Harvard CS50 - Intro to Computer Science
-https://www.w3schools.com/python/default.asp        Python Tutorial / Examples Guide
-https://www.python.org/dev/peps/pep-0008/           Style Guide for Python Code
-https://exercism.org/
+### Useful Python Links
+
+- https://www.w3schools.com/python/default.asp        Python Tutorial / Examples Guide
+- https://www.python.org/dev/peps/pep-0008/           Style Guide for Python Code
+
+
+### Links about 100 Days of Code/"insert here"
+
+- https://www.100daysofx.com/
+- https://www.100daysofcode.com/
+- https://www.100daysofcode.com/resources/
+- https://www.freecodecamp.org/news/join-the-100daysofcode-556ddb4579e4/
+- https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code
+- https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
+
+
+### Other Odd/Interesting Links
+
+- https://www.hackerrank.com/
+- https://www.codechef.com/
+- https://www.codewars.com/
+- https://platformengineering.org/
