@@ -8,8 +8,10 @@
 
 def math(num):
     print("\nYour number is ", num)
-    print("The square of your number is ", int(num) * int(num))
-    print("The cube of your number is ", int(num) * int(num) * int(num))
+    # print("The square of your number is ", int(num) * int(num))
+    # print("The cube of your number is ", int(num) * int(num) * int(num))    
+    print("The square of your number is ", int(num) ** 2)
+    print("The cube of your number is ", int(num) ** 3)
     print("Your number as a UTF-8 character is ", chr(int(num)))
 
 while True:
