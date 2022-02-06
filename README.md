@@ -58,3 +58,14 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - https://www.codechef.com/
 - https://www.codewars.com/
 - https://platformengineering.org/
+
+
+### Interesting RPG related links
+
+- https://github.com/rsek?tab=repositories
+- https://perchance.org/rsek-ironsworn-generators
+- https://perchance.org/welcome
+- https://donjon.bin.sh/
+- https://www.chaosgen.com/
+- http://chaoticshiny.com/
+- https://chartopia.d12dev.com/
