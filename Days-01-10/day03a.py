@@ -9,7 +9,7 @@
 
 # Second solution to test out UTF-8 character printing
 # Allows for input for start and end of the range
-num = int(input("Please provide my a whole starting number: "))
+num = int(input("Please provide me a whole starting number: "))
 num2 = int(input("Please provide me a whole ending number: "))
 for i in range(num, num2+1):
     print(chr(i), end=" ")

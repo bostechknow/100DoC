@@ -8,6 +8,14 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 
 
 
+## Checklist of things to go back and revise
+
+- Day 4 script - prevent duplicate results
+- Day 5 script - better/more options, colorize results
+- Day 8 script - fix issue with sub-profession
+- Day 9 script - win/loss ration, convert to rock, paper, scissors, lizard, spock
+- Day 10 script - better/more options, maybe change colors
+
 
 ### VSCode Themes / Plugins to Review
 
