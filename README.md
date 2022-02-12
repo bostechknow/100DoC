@@ -15,6 +15,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 8 script - fix issue with sub-profession
 - Day 9 script - win/loss ration, convert to rock, paper, scissors, lizard, spock
 - Day 10 script - better/more options, maybe change colors
+- Day 11 script - calculations done in a function, custom tip percent
 
 
 ### VSCode Themes / Plugins to Review
