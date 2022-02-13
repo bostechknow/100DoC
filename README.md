@@ -16,6 +16,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 9 script - win/loss ration, convert to rock, paper, scissors, lizard, spock
 - Day 10 script - better/more options, maybe change colors
 - Day 11 script - calculations done in a function, custom tip percent
+- Day 12 script - allow option for int or float
 
 
 ### VSCode Themes / Plugins to Review
