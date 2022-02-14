@@ -17,6 +17,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 10 script - better/more options, maybe change colors
 - Day 11 script - calculations done in a function, custom tip percent
 - Day 12 script - allow option for int or float
+- Day 13 script - use function again, better options from npc generator, and better true/false check
 
 
 ### VSCode Themes / Plugins to Review
@@ -64,9 +65,9 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 
 ### Other Odd/Interesting Links
 
-- https://www.hackerrank.com/
+- https://www.hackerrank.com/mr_bosford
 - https://www.codechef.com/
-- https://www.codewars.com/
+- https://www.codewars.com/users/mbostic-test
 - https://platformengineering.org/
 
 
