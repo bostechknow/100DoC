@@ -52,7 +52,7 @@ def npc ():
 # # TypeError: list indices must be integers or slices, not str
 # # https://careerkarma.com/blog/python-typeerror-list-indices-must-be-integers-or-slices-not-str/
 
-    print("...",  wr, ar, gr, "that is a", pr, "with a",  ".")
+    print("...",  wr, ar, gr, "that is a", pr, ".")
 
 
 

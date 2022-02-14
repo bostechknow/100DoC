@@ -12,9 +12,9 @@ print("Welcome in.  Hopefully, we can help you out today.\n")
 
 while True:
     base = float(input("What was the total of the bill?                          "))
-    tip =    int(input("How much of a tip do you want to give - 10, 12, 15, 20?  "))
+    tip = int(input("How much of a tip do you want to give - 10, 12, 15, 20?  "))
     if tip == 10 or tip == 12 or tip == 15 or tip == 20:
-        heads =  int(input("How many people are dividing the check?                  "))
+        heads = int(input("How many people are dividing the check?                  "))
         if tip == 10:
             total = round(base * 1.10, 2)
             part = round(base * 1.10 / float(heads), 2)
