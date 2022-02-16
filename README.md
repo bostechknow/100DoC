@@ -18,6 +18,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 11 script - calculations done in a function, custom tip percent
 - Day 12 script - allow option for int or float
 - Day 13 script - use function again, better options from npc generator, and better true/false check
+- Day 15 script - allow choice of outputs after list creation
 
 
 ### VSCode Themes / Plugins to Review
