@@ -19,7 +19,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 12 script - allow option for int or float
 - Day 13 script - use function again, better options from npc generator, and better true/false check
 - Day 15 script - allow choice of outputs after list creation
-
+- Day 16 need to create a standardized place for 100DoC devcontainers for various language environments
 
 ### VSCode Themes / Plugins to Review
 

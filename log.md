@@ -10,6 +10,8 @@
 
 - Day 15: 02/15/22 - I watched a few more videos on FreeCodeCamp's python program.  Still lots of focus on loops and logic.  I tried working on hackerrank, but it was horribly slow, so no real progress.  Only created one script today.  I used the colorized text a couple times, for practice.  The one script needs some polish, but it gets the job done.  It deals with list and list methods.  I should eventually turn the output from a bunch of things, to a loop and let the user decide what outputs they want to see.
 
+- Day 16: 02/18/22 - I haven't done anything the past couple days, due to feeling exhausted and unable to concentrate.  Today, I decided to take a break from Python, and study some very basics about Go(lang).  I copied my Go dev container into Day16 folder, for a standardized copy being available.  I do need to create a location for various devcontainers, for quicker pull and usage.  I do like some aspects of Go(lang).  Eventually, need to do the same thing as today, but for several other languages - Rust, Nodejs, and PHP.  Maybe, I will try one of them tomorrow.
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Day 1: 01/31/22 - Started a little of the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.  I will setup repl.it and the code rooms for testing at a later time.  I did the final task which is script day01a.py.  It gets the job done.  Nothing fancy, but that is okay.  I created day01.py by coming up with some random tasks, and then created a if, elif, else check.  I think that turned out pretty decent.  I need to add some features later, but I think this was a good start for today, and for this 100 days of coding.
