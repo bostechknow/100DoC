@@ -12,6 +12,8 @@
 
 - Day 16: 02/18/22 - I haven't done anything the past couple days, due to feeling exhausted and unable to concentrate.  Today, I decided to take a break from Python, and study some very basics about Go(lang).  I copied my Go dev container into Day16 folder, for a standardized copy being available.  I do need to create a location for various devcontainers, for quicker pull and usage.  I do like some aspects of Go(lang).  Eventually, need to do the same thing as today, but for several other languages - Rust, Nodejs, and PHP.  Maybe, I will try one of them tomorrow.
 
+- Day 17: 02/19/22 - I didn't get a lot of studying done today.  But, I did decide to go through the first part of a Rustlang crash course.  I think it was fun and different.  It's interesting to see some of the differences and similarities between them.  I didn't finish the video, but I think it was a good start.  I will get back to it later in this coming week most likely.  Also created the location for the devcontainers.  So some repo clean-up today.
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Day 1: 01/31/22 - Started a little of the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.  I will setup repl.it and the code rooms for testing at a later time.  I did the final task which is script day01a.py.  It gets the job done.  Nothing fancy, but that is okay.  I created day01.py by coming up with some random tasks, and then created a if, elif, else check.  I think that turned out pretty decent.  I need to add some features later, but I think this was a good start for today, and for this 100 days of coding.
