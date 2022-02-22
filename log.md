@@ -16,6 +16,8 @@
 
 - Day 18: 02/20/22 - I didn't get a lot of studying done today.  I decided today would be a good day to tinker with another language again.  Today's topic was Node.js.  It was interesting watching through the couple videos and playing with the devcontainer.  Not sure I am much of a fan of Node.js right now, but I assume it will grow on me, like mold?!?!?  I will need to play a little more to get a better feeling for it.  So far, Go is my favorite of the three excurions, then Rust, then Node.js.
 
+- Day 19: 02/21/22 - I got a little bit of studying done today.  Nothing major, but some is better than none.  Today, I decided to create a tarot card generator.  I think it turned out okay.  I have some improvements that could be useful to do later.  It was nice working on Python again today.  In general, kind of an average day, but good after last weeks couple days that I missed.
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Day 1: 01/31/22 - Started a little of the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.  I will setup repl.it and the code rooms for testing at a later time.  I did the final task which is script day01a.py.  It gets the job done.  Nothing fancy, but that is okay.  I created day01.py by coming up with some random tasks, and then created a if, elif, else check.  I think that turned out pretty decent.  I need to add some features later, but I think this was a good start for today, and for this 100 days of coding.
