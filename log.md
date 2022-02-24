@@ -18,6 +18,12 @@
 
 - Day 19: 02/21/22 - I got a little bit of studying done today.  Nothing major, but some is better than none.  Today, I decided to create a tarot card generator.  I think it turned out okay.  I have some improvements that could be useful to do later.  It was nice working on Python again today.  In general, kind of an average day, but good after last weeks couple days that I missed.
 
+- Day 20: 02/23/22 - I got some studying done today.  It's been fairly productive.  I wasn't able to study/code yesterday, I could not make myself do it.  Feeling back on track today.  I made a simple clue guessing game today.  I feel good about the random function, better with the while loops, and I will eventually remember the full syntax for the colorized text class.  Tomorrow, I will definitely get some more studying done.  Looking forward to tinkering with Go again this week.
+
+### Note: My Best score for the Clue Guessing game(Day20 script):
+
+![This was my best result!](/images/bestclue.png "Day 20 - Clue Guessing Game")
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Day 1: 01/31/22 - Started a little of the Udemy 100 Days of Code: The Complete Python Pro Bootcamp for 2022.  I will setup repl.it and the code rooms for testing at a later time.  I did the final task which is script day01a.py.  It gets the job done.  Nothing fancy, but that is okay.  I created day01.py by coming up with some random tasks, and then created a if, elif, else check.  I think that turned out pretty decent.  I need to add some features later, but I think this was a good start for today, and for this 100 days of coding.
