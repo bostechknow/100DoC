@@ -22,6 +22,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - ~~Day 16 need to create a standardized place for 100DoC devcontainers for various language environments~~ (Completed 02/19/22)
 - Day 19 script - colorize output, provide short meaning with return value, and prevent duplicate draws
 - Day 20 script - give list of options, allow for upper/lower case input
+- Day 21 script - Allow input of url for testing response code, find additional sites that body content is viable for output
 
 ### VSCode Themes / Plugins to Review
 
