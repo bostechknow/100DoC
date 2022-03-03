@@ -24,6 +24,7 @@ I will likely dabble here and there during the 100 Days of Code with some other 
 - Day 20 script - give list of options, allow for upper/lower case input
 - Day 21 script - Allow input of url for testing response code, find additional sites that body content is viable for output
 - Day 22 script - zippotam api as separate script, allow for zip code or state/city input
+- Day 23 script - read file option, pull specific person from the file, fix json appending
 
 ### VSCode Themes / Plugins to Review
 
