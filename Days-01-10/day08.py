@@ -7,12 +7,7 @@
 
 import random
 
-def npc ():
-    gender =     ["Man", "Woman", "Transperson", "Androgynous"]
-    ancestry =   ["Human", "Changling", "Clockwork", "Dwarf", "Goblin", "Orc"]
-    profession = ["Academic", "Commoner", "Criminal", "Martial", "Religious", "Wilderness"]
-    wealth =     ["Destitute", "Poor", "Getting By", "Comfortable", "Wealthy", "Rich"]
-    
+def subpro(prof):
     academic =   ["Architecture", "Astrology", "Engineering", "Etiquette", "Folklore", "Geography", "Heraldry",
                   "History", "Law", "Literature", "Magic", "Medicine", "Navigation", "Occult", "Philosophy",
                   "Politics", "Nature", "Religion", "Science", "War"]
@@ -29,30 +24,34 @@ def npc ():
     wilderness = ["Bandit", "Brigand", "Barbarian", "Exile", "Gatherer", "Guide", "Hermit", "Hunter", "Nomad",
                   "Pioneer", "Poacher", "Prospector", "Outlaw", "Refugee", "Spelunker", "Tracker", "Trapper", "Woodcutter"]
 
+    if prof == "Academic":
+        subp = academic[random.randint(0, 19)]
+    elif prof == "Commoner":
+        subp = commoner[random.randint(0, 19)]
+    elif prof == "Criminal":
+        subp = criminal[random.randint(0, 19)]
+    elif prof == "Martial":
+        subp = martial[random.randint(0, 13)]
+    elif prof == "Religious":
+        subp = religious[random.randint(0, 10)]
+    else:
+        subp = wilderness[random.randint(0, 17)]
+    
+    return subp
 
+def npc ():
+    gender =     ["Man", "Woman", "Transperson", "Androgynous"]
+    ancestry =   ["Human", "Changling", "Clockwork", "Dwarf", "Goblin", "Orc"]
+    profession = ["Academic", "Commoner", "Criminal", "Martial", "Religious", "Wilderness"]
+    wealth =     ["Destitute", "Poor", "Getting By", "Comfortable", "Wealthy", "Rich"]
+    
     gr = gender[random.randint(0, 3)]
     ar = ancestry[random.randint(0, 5)]
     pr = profession[random.randint(0, 5)]
     wr = wealth[random.randint(0, 5)]
+    sp = subpro(pr)
 
-#     pro = profession[pr]
-#     if pro == "academic":
-#         prof = "Academic - ", academic[random.randint(0, 19)]
-#     elif pro == "commoner":
-#         prof = "Commoner - ", commoner[random.randint(0, 19)]
-#     elif pro == "criminal":
-#         prof = "Criminal - ", criminal[random.randint(0, 19)]
-#     elif pro == "martial":
-#         prof = "Martial - ", martial[random.randint(0, 13)]
-#     elif pro == "religious":
-#         prof = "Religious - ", religious[random.randint(0, 10)]
-#     else:
-#         prof = "Wilderness - ", wilderness[random.randint(0, 17)]
-
-# # TypeError: list indices must be integers or slices, not str
-# # https://careerkarma.com/blog/python-typeerror-list-indices-must-be-integers-or-slices-not-str/
-
-    print("...",  wr, ar, gr, "that is a", pr, ".")
+    print("... ",  wr, " ",ar, " ", gr, " that is a ", pr, " - ", str(sp), ".", sep="")
 
 
 
