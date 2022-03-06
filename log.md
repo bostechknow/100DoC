@@ -8,6 +8,8 @@
 
 - Day 24: 03/03/22 - I was able to get a little bit of studying done earlier today.  Nothing crazy, but I have a couple days off in a little over a week, so I will get more studying / practice in then.  I didn't make a new script today.  I decided to go to my to-do list, and was able to fix or add to the functionality of two of the scripts.  I am much happier with their outcome now.  They could have more features, but I think they are in a good state.
 
+- Day 25: 03/05/22 - I didn't get to code last night, work ran way longer than expected, and was exhausted.  I did get some non-coding studying done today.  I went through a couple shorter 100DoC Python bootcamp lessons too.  Wrote a short script to utilize the f-string format.  I must say I like it.  I found a short script to use argparse, I tweaked it a little bit and tried it out.  Not really useful, but argparse is definitely something I can incorporate into previous and future scripts.
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - Day 11: 02/11/22 - I still haven't gone back to the Udemy 100 Days of Code course yet.  I did check what the day two challenge was a tip calculator.  I didn't check the solution, and haven't gone through the lessons parts yet.  I did make today's script based on that challenge.  I was able to re-use my while loop, to be able to perform multiple calculations.  I did have to look up the round method for floats.  Mostly happy with the result.  I do want to go back and convert the calculations into a function eventually.  Likewise, I want to give the option for a custom tip percentage.  Probably easier to resolve in that function idea.
