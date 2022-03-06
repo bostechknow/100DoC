@@ -6,6 +6,9 @@
 # - Ask how many people to divide the check
 # - Use loop for practice
 # - Future improvement - Convert tip calculation into a function
+# - Spare code to review:
+# final_amount = round(bill_per_person, 2)
+# final_amount = "{:.2f}".format(bill_per_person)
     
 
 print("Welcome in.  Hopefully, we can help you out today.\n")
